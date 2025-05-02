@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @classic-king
+- 👋 Hi, I’m Animesh Anand
 - 👀 I’m interested in coding..
 - 🌱 I’m currently learning c and c++ and python 
 - 💞️ I’m looking to collaborate on github and w3 school
